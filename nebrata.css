@@ -1,0 +1,38 @@
+body{
+    
+}
+.container-fluid{
+    padding: 30px !important;
+}
+.marche{
+    padding-left: 80px !important;
+    font-size: 20px !important;
+    font-family: Tahoma;
+    font-style: bold ;
+}
+.header{
+    background-color: green;
+    display: flex;
+    width: auto;
+    height: 150px;
+}
+.alig{
+    margin: 80px;
+    font-size: 20px;
+}
+.container{
+    text-align: left !important;
+}
+.mixe{
+    display: flex;
+    padding: 30px;
+    
+}
+.quison{
+    text-align: justify;
+    padding: 20px;
+
+}
+a{
+    text-decoration: none;
+}
